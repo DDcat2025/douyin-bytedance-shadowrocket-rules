@@ -3,10 +3,10 @@
 # REPO: https://github.com/DDcat2025/douyin-bytedance-shadowrocket-rules
 # SOURCE: https://github.com/v2fly/domain-list-community
 # SOURCE-COMMIT: 42ca460bb0495eec5a704611d6bc6cff387257a5
-# INCLUDED: bytedance-base, doubao, douyin, volcengine, jimeng dependencies
-# DOMAIN-SUFFIX: 588
+# INCLUDED: bytedance-base, doubao, douyin, feishu, lark-cn-base, volcengine, jimeng dependencies
+# DOMAIN-SUFFIX: 644
 # DOMAIN: 1
-# TOTAL: 589
+# TOTAL: 645
 payload:
   - DOMAIN-SUFFIX,365yg.com
   - DOMAIN-SUFFIX,99uri.cn
@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,amemv.cn
   - DOMAIN-SUFFIX,amemv.com
   - DOMAIN-SUFFIX,amemv.net
+  - DOMAIN-SUFFIX,anycross.com
   - DOMAIN-SUFFIX,api-building.fun
   - DOMAIN-SUFFIX,arco.design
   - DOMAIN-SUFFIX,awemeughun.com
@@ -37,6 +38,7 @@ payload:
   - DOMAIN-SUFFIX,awemeugwave.com
   - DOMAIN-SUFFIX,baike.com
   - DOMAIN-SUFFIX,baikevod.com
+  - DOMAIN-SUFFIX,baseopendev.com
   - DOMAIN-SUFFIX,bdactivity.com
   - DOMAIN-SUFFIX,bdegnine.com
   - DOMAIN-SUFFIX,bdgslb.com
@@ -65,6 +67,7 @@ payload:
   - DOMAIN-SUFFIX,bfcdnbf.com
   - DOMAIN-SUFFIX,bfcdnrd.com
   - DOMAIN-SUFFIX,bfcdnsc.com
+  - DOMAIN-SUFFIX,blmpb.com
   - DOMAIN-SUFFIX,boxdouyin.com
   - DOMAIN-SUFFIX,bplslb.com
   - DOMAIN-SUFFIX,bpltm.com
@@ -103,6 +106,7 @@ payload:
   - DOMAIN-SUFFIX,bytecdn.net
   - DOMAIN-SUFFIX,bytecdntp.com
   - DOMAIN-SUFFIX,bytecimg.com
+  - DOMAIN-SUFFIX,bytecloud.com
   - DOMAIN-SUFFIX,byted-dast.com
   - DOMAIN-SUFFIX,byted-edu.com
   - DOMAIN-SUFFIX,byted-static.com
@@ -114,6 +118,7 @@ payload:
   - DOMAIN-SUFFIX,bytedance.net
   - DOMAIN-SUFFIX,bytedance.org
   - DOMAIN-SUFFIX,bytedanceapi.com
+  - DOMAIN-SUFFIX,bytedancehermestest.com
   - DOMAIN-SUFFIX,bytedcdn.com
   - DOMAIN-SUFFIX,bytedeliver.com
   - DOMAIN-SUFFIX,bytedgames.com
@@ -155,6 +160,7 @@ payload:
   - DOMAIN-SUFFIX,bytemastatic.com
   - DOMAIN-SUFFIX,bytemedi.com
   - DOMAIN-SUFFIX,bytenewst.com
+  - DOMAIN-SUFFIX,byteoc.com
   - DOMAIN-SUFFIX,byteorg.com
   - DOMAIN-SUFFIX,byteorge.com
   - DOMAIN-SUFFIX,byteoversea.com
@@ -174,6 +180,11 @@ payload:
   - DOMAIN-SUFFIX,bytevcloudvod.com
   - DOMAIN-SUFFIX,bytevdn-boe.com
   - DOMAIN-SUFFIX,bytevdn.com
+  - DOMAIN-SUFFIX,bytewebservice.com
+  - DOMAIN-SUFFIX,bytexns.cn
+  - DOMAIN-SUFFIX,bytexns.com
+  - DOMAIN-SUFFIX,bytexns.net
+  - DOMAIN-SUFFIX,bytexopen.com
   - DOMAIN-SUFFIX,bytexservice.com
   - DOMAIN-SUFFIX,cache4ever.com
   - DOMAIN-SUFFIX,cache666.com
@@ -228,10 +239,46 @@ payload:
   - DOMAIN-SUFFIX,emr-volces.com
   - DOMAIN-SUFFIX,extlog.snssdk.com
   - DOMAIN-SUFFIX,faceu.com
+  - DOMAIN-SUFFIX,falconsending.com
   - DOMAIN-SUFFIX,fedlearner.net
   - DOMAIN-SUFFIX,feelgood.cn
+  - DOMAIN-SUFFIX,fei-shu.cn
   - DOMAIN-SUFFIX,feilian.cn
+  - DOMAIN-SUFFIX,feishu-3rd-party-services.com
+  - DOMAIN-SUFFIX,feishu-boe.net
+  - DOMAIN-SUFFIX,feishu-customer.cn
+  - DOMAIN-SUFFIX,feishu-pre.cn
+  - DOMAIN-SUFFIX,feishu-pre.net
+  - DOMAIN-SUFFIX,feishu-psc.cn
+  - DOMAIN-SUFFIX,feishu-staging.cn
+  - DOMAIN-SUFFIX,feishu.cn
+  - DOMAIN-SUFFIX,feishu.net
+  - DOMAIN-SUFFIX,feishuapp-cdn.net
+  - DOMAIN-SUFFIX,feishuapp.cn
+  - DOMAIN-SUFFIX,feishuapp.com
+  - DOMAIN-SUFFIX,feishucdn.com
+  - DOMAIN-SUFFIX,feishudoc.cn
+  - DOMAIN-SUFFIX,feishudoc.com
+  - DOMAIN-SUFFIX,feishuhuiyi.cn
+  - DOMAIN-SUFFIX,feishuhuiyi.com
+  - DOMAIN-SUFFIX,feishuimg-boe.com
+  - DOMAIN-SUFFIX,feishuimg-pre.com
+  - DOMAIN-SUFFIX,feishuimg.com
+  - DOMAIN-SUFFIX,feishukacdn.com
+  - DOMAIN-SUFFIX,feishumeetings.cn
+  - DOMAIN-SUFFIX,feishumeetings.com
+  - DOMAIN-SUFFIX,feishuoffice.cn
+  - DOMAIN-SUFFIX,feishuoffice.com
+  - DOMAIN-SUFFIX,feishuopenplatformrecord.com
+  - DOMAIN-SUFFIX,feishupkg.com
+  - DOMAIN-SUFFIX,feishustatus.cn
+  - DOMAIN-SUFFIX,feishuvc.cn
+  - DOMAIN-SUFFIX,feishuvc.com
   - DOMAIN-SUFFIX,gcloudcache.com
+  - DOMAIN-SUFFIX,getfeishu.cn
+  - DOMAIN-SUFFIX,getfeishu.com
+  - DOMAIN-SUFFIX,getsays.cn
+  - DOMAIN-SUFFIX,getsays.com
   - DOMAIN-SUFFIX,gogokid.com
   - DOMAIN-SUFFIX,gogokid.com.cn
   - DOMAIN-SUFFIX,gslbdns.com
@@ -307,12 +354,14 @@ payload:
   - DOMAIN-SUFFIX,kolbuyer.cn
   - DOMAIN-SUFFIX,kuailepipixia.com
   - DOMAIN-SUFFIX,kych5.com
+  - DOMAIN-SUFFIX,lackvc.cn
   - DOMAIN-SUFFIX,livecdnstatic.com
   - DOMAIN-SUFFIX,local-ip.online
   - DOMAIN-SUFFIX,log.zijieapi.com
   - DOMAIN-SUFFIX,luckysf.net
   - DOMAIN-SUFFIX,maoxiangai.com
   - DOMAIN-SUFFIX,mcs.snssdk.com
+  - DOMAIN-SUFFIX,meegobeta.com
   - DOMAIN-SUFFIX,modernjs.cn
   - DOMAIN-SUFFIX,multilingual-volc.com
   - DOMAIN-SUFFIX,myimis.com
@@ -326,6 +375,9 @@ payload:
   - DOMAIN-SUFFIX,obriccloud.com
   - DOMAIN-SUFFIX,obricclouddw.com
   - DOMAIN-SUFFIX,oceancloudapi.com
+  - DOMAIN-SUFFIX,okr.cn
+  - DOMAIN-SUFFIX,okr.com
+  - DOMAIN-SUFFIX,okr.com.cn
   - DOMAIN-SUFFIX,oortgslb.com
   - DOMAIN-SUFFIX,openbcs.com
   - DOMAIN-SUFFIX,openve.cn
@@ -374,6 +426,8 @@ payload:
   - DOMAIN-SUFFIX,samasty.com
   - DOMAIN-SUFFIX,searchstatic.com
   - DOMAIN-SUFFIX,searchtoutiaolive.com
+  - DOMAIN-SUFFIX,securityfeishu.cn
+  - DOMAIN-SUFFIX,securityfs.cn
   - DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
   - DOMAIN-SUFFIX,shidianguji.com
   - DOMAIN-SUFFIX,shoppingads.cn
@@ -383,6 +437,7 @@ payload:
   - DOMAIN-SUFFIX,slbauto.com
   - DOMAIN-SUFFIX,sms18.com
   - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,statusfeishu.cn
   - DOMAIN-SUFFIX,supercachenet.com
   - DOMAIN-SUFFIX,supercachenode.com
   - DOMAIN-SUFFIX,tekkenthree.com
@@ -549,6 +604,7 @@ payload:
   - DOMAIN-SUFFIX,volcwaf.com
   - DOMAIN-SUFFIX,volcwaf001.com
   - DOMAIN-SUFFIX,voleai.com
+  - DOMAIN-SUFFIX,vscenevideo.com
   - DOMAIN-SUFFIX,woaihuoshan.com
   - DOMAIN-SUFFIX,wohst8.com
   - DOMAIN-SUFFIX,writingo-editor.com

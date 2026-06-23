@@ -5,7 +5,8 @@ import subprocess
 from pathlib import Path
 
 
-CATEGORIES = ("douyin", "doubao", "volcengine")
+BASE_CATEGORIES = ("bytedance", "lark")
+CATEGORIES = ("douyin", "doubao", "volcengine", "feishu")
 EXTRA_SUFFIXES = {"vlabstatic.com"}
 
 
@@ -40,7 +41,14 @@ def main() -> None:
     parser.add_argument("--repo", type=Path, help="domain-list-community repository")
     args = parser.parse_args()
 
-    suffixes, exact = parse_file(args.data / "bytedance", follow_includes=False)
+    suffixes: set[str] = set()
+    exact: set[str] = set()
+    for category in BASE_CATEGORIES:
+        category_suffixes, category_exact = parse_file(
+            args.data / category, follow_includes=False
+        )
+        suffixes |= category_suffixes
+        exact |= category_exact
     for category in CATEGORIES:
         category_suffixes, category_exact = parse_file(
             args.data / category, follow_includes=True
@@ -62,7 +70,7 @@ def main() -> None:
         "# REPO: https://github.com/DDcat2025/douyin-bytedance-shadowrocket-rules",
         "# SOURCE: https://github.com/v2fly/domain-list-community",
         f"# SOURCE-COMMIT: {commit}",
-        "# INCLUDED: bytedance-base, doubao, douyin, volcengine, jimeng dependencies",
+        "# INCLUDED: bytedance-base, doubao, douyin, feishu, lark-cn-base, volcengine, jimeng dependencies",
         f"# DOMAIN-SUFFIX: {len(suffixes)}",
         f"# DOMAIN: {len(exact)}",
         f"# TOTAL: {total}",
@@ -90,4 +98,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

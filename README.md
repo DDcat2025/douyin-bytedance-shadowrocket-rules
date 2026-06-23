@@ -6,11 +6,12 @@
 - 即梦 AI（`jimeng.jianying.com`）
 - 豆包、扣子 Coze 中国区
 - 火山引擎、火山云及相关 CDN/API
+- 飞书中国区、飞书文档、飞书会议和开放平台
 - 字节跳动中国区共享登录、图片、视频、对象存储和网络基础设施
 
 规则基于
 [`v2fly/domain-list-community`](https://github.com/v2fly/domain-list-community)
-的 `bytedance`、`douyin`、`doubao`、`volcengine` 分类生成，并每周自动更新。
+的 `bytedance`、`douyin`、`doubao`、`volcengine`、`feishu` 分类生成，并每周自动更新。
 
 ## Shadowrocket
 
@@ -53,6 +54,6 @@ rules:
 
 ## 范围说明
 
-本规则没有合并 TikTok、Lark、飞书和 Trae 的海外分类，因为这些服务的线路策略
-可能与中国区抖音不同。即梦 AI 使用的剪映、字节 CDN 和静态资源域名已包含。
-
+本规则包含飞书中国区，但没有合并 TikTok、Lark Global 和 Trae 海外分类，因为
+这些服务的线路策略可能与中国区抖音不同。即梦 AI 使用的剪映、字节 CDN 和静态
+资源域名已包含。
