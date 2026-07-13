@@ -2,11 +2,11 @@
 # AUTHOR: DDcat2025
 # REPO: https://github.com/DDcat2025/douyin-bytedance-shadowrocket-rules
 # SOURCE: https://github.com/v2fly/domain-list-community
-# SOURCE-COMMIT: bb622a2b75b3dfbec83719c1eb6e748720ea698e
+# SOURCE-COMMIT: 5dbad7124999abc285c74ecb4e80043657b39427
 # INCLUDED: bytedance-base, doubao, douyin, feishu, lark-cn-base, volcengine, jimeng dependencies
-# DOMAIN-SUFFIX: 776
+# DOMAIN-SUFFIX: 780
 # DOMAIN: 1
-# TOTAL: 777
+# TOTAL: 781
 .365yg.com
 .99uri.cn
 .99uri.com
@@ -395,6 +395,7 @@
 .ixigua.com
 .ixiguavideo.com
 .jianying.com
+.jimeng.com
 .jinritemai.com
 .jokecommunity.cn
 .jokecommunity.com
@@ -588,7 +589,9 @@
 .vestack-sandbox.com
 .vestack.cloud
 .vfcdnrd.com
+.vlabimg.com
 .vlabstatic.com
+.vlabvod.com
 .vol1.cn
 .vol6.cn
 .volc-dns.com
@@ -782,5 +785,6 @@
 .zjgslb.com
 .zjytxd.cn
 .zjytxp.cn
+.zlinkurl.cn
 .zml81.cn
 .zvip.cn
