@@ -2,11 +2,11 @@
 # AUTHOR: DDcat2025
 # REPO: https://github.com/DDcat2025/douyin-bytedance-shadowrocket-rules
 # SOURCE: https://github.com/v2fly/domain-list-community
-# SOURCE-COMMIT: 54331fc1d3795e8344eac19e1155d5c5b57329ca
+# SOURCE-COMMIT: 660198a50bac2ab10c567d95a472a7b33915d1b0
 # INCLUDED: bytedance-base, doubao, douyin, feishu, lark-cn-base, volcengine, jimeng dependencies
-# DOMAIN-SUFFIX: 780
+# DOMAIN-SUFFIX: 783
 # DOMAIN: 1
-# TOTAL: 781
+# TOTAL: 784
 payload:
   - DOMAIN-SUFFIX,365yg.com
   - DOMAIN-SUFFIX,99uri.cn
@@ -250,6 +250,7 @@ payload:
   - DOMAIN-SUFFIX,cozetest.cn
   - DOMAIN-SUFFIX,cozetest2.cn
   - DOMAIN-SUFFIX,cozetest3.cn
+  - DOMAIN-SUFFIX,csjplatform.com
   - DOMAIN-SUFFIX,ctobsnssdk.com
   - DOMAIN-SUFFIX,datawindexmarket.com
   - DOMAIN-SUFFIX,dbbuilding.fun
@@ -445,6 +446,7 @@ payload:
   - DOMAIN-SUFFIX,originalstatic.com
   - DOMAIN-SUFFIX,originalvod.com
   - DOMAIN-SUFFIX,pacmantwo.com
+  - DOMAIN-SUFFIX,pangle.cn
   - DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
   - DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
   - DOMAIN-SUFFIX,pangolin-hl.snssdk.com
@@ -755,6 +757,7 @@ payload:
   - DOMAIN-SUFFIX,xiguavideo.net
   - DOMAIN-SUFFIX,xsgtvacct.com
   - DOMAIN-SUFFIX,xyf61.cn
+  - DOMAIN-SUFFIX,yhgfb-cn-static.com
   - DOMAIN-SUFFIX,ytxptd.cn
   - DOMAIN-SUFFIX,ytxptz.cn
   - DOMAIN-SUFFIX,zebracdn.com
