@@ -2,11 +2,11 @@
 # AUTHOR: DDcat2025
 # REPO: https://github.com/DDcat2025/douyin-bytedance-shadowrocket-rules
 # SOURCE: https://github.com/v2fly/domain-list-community
-# SOURCE-COMMIT: 660198a50bac2ab10c567d95a472a7b33915d1b0
+# SOURCE-COMMIT: 383272bf0a263de550d65fed9b8520aab55dfcb4
 # INCLUDED: bytedance-base, doubao, douyin, feishu, lark-cn-base, volcengine, jimeng dependencies
-# DOMAIN-SUFFIX: 783
+# DOMAIN-SUFFIX: 796
 # DOMAIN: 1
-# TOTAL: 784
+# TOTAL: 797
 365yg.com
 99uri.cn
 99uri.com
@@ -90,6 +90,7 @@ bpltm.com
 building.fun
 butterfly-static.cn
 butterflyai.cn
+buydouke.com
 bvfcdn.com
 bvfcdn2.com
 bvfcdn3.com
@@ -210,6 +211,7 @@ bytetos.com
 bytetraffic.net
 bytetstatic.com
 bytetstatic.net
+byteurl.cn
 bytevalk.com
 bytevcloudapi.com
 bytevcloudvod.com
@@ -223,6 +225,9 @@ bytexopen.com
 bytexservice.com
 cache4ever.com
 cache666.com
+capcut.cn
+capcut.com
+capcutcdn-us.com
 cdnbuild.com
 cdnbuild.net
 cdndns1.com
@@ -252,6 +257,7 @@ cozetest2.cn
 cozetest3.cn
 csjplatform.com
 ctobsnssdk.com
+dailygn.com
 datawindexmarket.com
 dbbuilding.fun
 dig.bdurl.net
@@ -278,11 +284,14 @@ duoshan.com
 dycloud.run
 dycloudbk.com
 ecombdapi.com
+ecombdimg.com
 ecombdstatic.com
+ecombdvod.com
 edgeceler.com
 emr-volces.com
 extlog.snssdk.com
 faceu.com
+faceu.mobi
 falconsending.com
 fedlearner.net
 feelgood.cn
@@ -410,6 +419,7 @@ kolbuyer.cn
 kuailepipixia.com
 kych5.com
 lackvc.cn
+lifexue.com
 livecdnstatic.com
 livesaascdn.com
 livesaasvolccdn.com
@@ -430,9 +440,11 @@ neihancommunity.com
 neihancommunity.net
 nextvid.net
 neyetwatcher.com
+nvsgames.cn
 obriccloud.com
 obricclouddw.com
 oceancloudapi.com
+oceanengine.com
 okr.cn
 okr.com
 okr.com.cn
@@ -557,6 +569,7 @@ ttjisu.com
 ttwebview.com
 ugshare-img.com
 ulikecam.com
+ulpay.com
 ultracachenode.com
 v2ig.cn
 v2mg.cn
