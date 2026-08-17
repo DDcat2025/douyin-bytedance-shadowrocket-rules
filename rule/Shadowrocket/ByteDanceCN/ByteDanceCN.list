@@ -2,11 +2,11 @@
 # AUTHOR: DDcat2025
 # REPO: https://github.com/DDcat2025/douyin-bytedance-shadowrocket-rules
 # SOURCE: https://github.com/v2fly/domain-list-community
-# SOURCE-COMMIT: 383272bf0a263de550d65fed9b8520aab55dfcb4
+# SOURCE-COMMIT: 6f8a5b43db087ae27decef85d80229850bbd40b1
 # INCLUDED: bytedance-base, doubao, douyin, feishu, lark-cn-base, volcengine, jimeng dependencies
-# DOMAIN-SUFFIX: 796
+# DOMAIN-SUFFIX: 802
 # DOMAIN: 1
-# TOTAL: 797
+# TOTAL: 803
 DOMAIN-SUFFIX,365yg.com
 DOMAIN-SUFFIX,99uri.cn
 DOMAIN-SUFFIX,99uri.com
@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,amemv.net
 DOMAIN-SUFFIX,anycross.com
 DOMAIN-SUFFIX,api-building.fun
+DOMAIN-SUFFIX,applogcdn.com
 DOMAIN-SUFFIX,arco.design
 DOMAIN-SUFFIX,ark-doc-resources.cn
 DOMAIN-SUFFIX,auto-validation.com
@@ -273,6 +274,7 @@ DOMAIN-SUFFIX,douyincloud.run
 DOMAIN-SUFFIX,douyinec.com
 DOMAIN-SUFFIX,douyinfe.com
 DOMAIN-SUFFIX,douyinliving.com
+DOMAIN-SUFFIX,douyinmusicpromotion.com
 DOMAIN-SUFFIX,douyinpay.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
@@ -418,6 +420,7 @@ DOMAIN-SUFFIX,kolbuyer.cn
 DOMAIN-SUFFIX,kuailepipixia.com
 DOMAIN-SUFFIX,kych5.com
 DOMAIN-SUFFIX,lackvc.cn
+DOMAIN-SUFFIX,letsign.com
 DOMAIN-SUFFIX,lifexue.com
 DOMAIN-SUFFIX,livecdnstatic.com
 DOMAIN-SUFFIX,livesaascdn.com
@@ -499,6 +502,7 @@ DOMAIN-SUFFIX,rsproxy.cn
 DOMAIN-SUFFIX,samasty.com
 DOMAIN-SUFFIX,sealsuite.com
 DOMAIN-SUFFIX,sealsuite.net
+DOMAIN-SUFFIX,searchpstatp.com
 DOMAIN-SUFFIX,searchstatic.com
 DOMAIN-SUFFIX,searchtoutiaolive.com
 DOMAIN-SUFFIX,securityfeishu.cn
@@ -760,6 +764,7 @@ DOMAIN-SUFFIX,wukongwenda.cn
 DOMAIN-SUFFIX,wukongwenda.com
 DOMAIN-SUFFIX,xck31.cn
 DOMAIN-SUFFIX,xflowedge.com
+DOMAIN-SUFFIX,xiaohe.cn
 DOMAIN-SUFFIX,xiaoxiaapi.com
 DOMAIN-SUFFIX,xiguaapp.cn
 DOMAIN-SUFFIX,xiguaapp.com
@@ -767,6 +772,7 @@ DOMAIN-SUFFIX,xiguashipin.cn
 DOMAIN-SUFFIX,xiguashipin.net
 DOMAIN-SUFFIX,xiguavideo.cn
 DOMAIN-SUFFIX,xiguavideo.net
+DOMAIN-SUFFIX,xingtu.cn
 DOMAIN-SUFFIX,xsgtvacct.com
 DOMAIN-SUFFIX,xyf61.cn
 DOMAIN-SUFFIX,yhgfb-cn-static.com
