@@ -57,3 +57,7 @@ rules:
 本规则包含飞书中国区，但没有合并 TikTok、Lark Global 和 Trae 海外分类，因为
 这些服务的线路策略可能与中国区抖音不同。即梦 AI 使用的剪映、字节 CDN 和静态
 资源域名已包含。
+
+## 2026-10-12 格式校正
+
+DOMAIN-SET 保留精确主机与后缀的差别：full: 主机不加前导点，后缀域名使用前导点。现有 RULE-SET、DOMAIN-SET 和 Mihomo 地址保持不变。整体接入顺序见 [综合规则仓库](https://github.com/DDcat2025/shadowrocket-routing-rules)。

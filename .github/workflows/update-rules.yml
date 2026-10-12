@@ -17,6 +17,8 @@ jobs:
         run: git clone --depth 1 https://github.com/v2fly/domain-list-community.git upstream
       - name: Generate rule files
         run: python3 scripts/build_rules.py upstream/data --repo upstream
+      - name: Validate rules
+        run: python3 scripts/check_rules.py
       - name: Commit updates
         run: |
           if git diff --quiet; then

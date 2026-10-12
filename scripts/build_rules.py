@@ -84,7 +84,8 @@ def main() -> None:
     write(shadow / "ByteDanceCN.list", header + rules)
     write(
         shadow / "ByteDanceCN_Domain.list",
-        header + [f".{domain}" for domain in sorted(suffixes | exact)],
+        header + [f".{domain}" for domain in sorted(suffixes)]
+        + sorted(exact - suffixes),
     )
     write(
         Path("rule/Mihomo/ByteDanceCN/ByteDanceCN.yaml"),
